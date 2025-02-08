@@ -4,16 +4,16 @@ Discover the joy of organizing your tasks with my intuitive app! Effortlessly cr
 
 
 <br>
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/todo%20lista.png">
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/todo%20kreator.png">
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/funkcja%20edytowania.png">
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/formularz%20.png">
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/panel%20logowania.png"> 
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/todo%20lista.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/todo%20kreator.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/funkcja%20edytowania.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/formularz%20.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/panel%20logowania.png"> 
 <br>
 
 
 <br>
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/swager%20doc.png">
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/swager%20doc2.png">
-<img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/swager%20doc3.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/swager%20doc.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/swager%20doc2.png">
+<img align="left" width="800" height="500" src="https://github.com/Matekotw/scr/blob/main/swager%20doc3.png">
 <br>

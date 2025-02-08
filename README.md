@@ -3,7 +3,7 @@
 <html>
 
 <head>
-    <title>HTML img align Attribute</title>
+    <title>Todo App</title>
 </head>
 
 <body>
@@ -17,8 +17,7 @@
              align="center" />
              align Attribute
     </h2>
-     <img src=
-![todo kreator](https://github.com/user-attachments/assets/b2157c00-1258-44f1-b042-a88b59bd0234)
+     <img src=![todo kreator](https://github.com/user-attachments/assets/b2157c00-1258-44f1-b042-a88b59bd0234)
 
 
              alt="GeeksforGeeks logo"
@@ -26,8 +25,7 @@
              align Attribute
     </h2>
 
-     <img src=
-![panel logowania](https://github.com/user-attachments/assets/e55dff57-5671-40b7-bc4e-c805297a6abc)
+     <img src=![panel logowania](https://github.com/user-attachments/assets/e55dff57-5671-40b7-bc4e-c805297a6abc)
 
 
              alt="GeeksforGeeks logo"

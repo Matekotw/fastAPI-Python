@@ -2,7 +2,7 @@
 FastApi - todo
 Discover the joy of organizing your tasks with me intuitive app! Effortlessly create a personalized to-do list inspired by SQL questions, all designed to make your planning experience enjoyable and user-friendly. Embrace clarity and efficiency as you tackle your projects with ease!
 
-<img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/todo%20lista.png">
+<img align="left" width="1500" height="1000" src="https://github.com/Matekotw/scr/blob/main/todo%20lista.png">
 <img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/todo%20kreator.png">
 <img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/funkcja%20edytowania.png">
 <img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/formularz%20.png">

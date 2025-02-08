@@ -7,7 +7,7 @@
 <img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/panel%20logowania.png"> 
 <br>
 <br>
-Swagger Docs
+# Swagger Docs
 <br>
 <img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/swager%20doc.png">
 <img align="left" width="1000" height="1000" src="https://github.com/Matekotw/scr/blob/main/swager%20doc2.png">

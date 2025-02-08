@@ -1,11 +1,63 @@
 # TodoApp
-<img aligin ="left" width ="3px" style ="padding:right:10px;" scr= ![panel logowania](https://github.com/user-attachments/assets/201c7689-b7a1-489e-a486-1c761530fa8a) />
-![formularz ](https://github.com/user-attachments/assets/701bbcaf-5fde-4cb1-b7bb-8ac51c669821)
-![funkcja edytowania](https://github.com/user-attachments/assets/ca1b3085-069c-404b-8500-8cf5eef1d6b4)
-![todo lista](https://github.com/user-attachments/assets/312fd168-9dca-4002-b694-36ad5c580194)
-![todo kreator](https://github.com/user-attachments/assets/00e24fa8-fa50-4d07-846e-129d4bb25590)
-Dokumentacja 
-![swager doc](https://github.com/user-attachments/assets/0d82ed80-490d-4ae5-8bc5-260cc49254c4)
-![swager doc2](https://github.com/user-attachments/assets/3d0bda42-5824-402c-826e-c3d902642f53)
-![swager doc3](https://github.com/user-attachments/assets/d6a90ff9-19cb-4247-9c55-df2f0003c72f)
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>HTML img align Attribute</title>
+</head>
+
+<body>
+    <h2>
+        HTML img
+
+        <img src=![todo lista](https://github.com/user-attachments/assets/c1c881e0-07e7-4333-835c-6aa1b98648d3)
+
+
+             alt="GeeksforGeeks logo"
+             align="center" />
+             align Attribute
+    </h2>
+     <img src=
+![todo kreator](https://github.com/user-attachments/assets/b2157c00-1258-44f1-b042-a88b59bd0234)
+
+
+             alt="GeeksforGeeks logo"
+             align="center" />
+             align Attribute
+    </h2>
+
+     <img src=
+![panel logowania](https://github.com/user-attachments/assets/e55dff57-5671-40b7-bc4e-c805297a6abc)
+
+
+             alt="GeeksforGeeks logo"
+             align="center" />
+             align Attribute
+    </h2>
+         <img src=![funkcja edytowania](https://github.com/user-attachments/assets/11708d91-7ef1-401b-b8fe-088033ce7023)
+
+
+
+             alt="GeeksforGeeks logo"
+             align="center" />
+             align Attribute
+             
+    </h2>
+     <img src=![formularz ](https://github.com/user-attachments/assets/28db2a5e-e930-4acd-a94b-b6b901d9e406)
+
+
+
+             alt="GeeksforGeeks logo"
+             align="center" />
+             align Attribute
+    </h2>
+
+    
+</body>
+
+
+
+
+
+</html>
 

@@ -9,7 +9,7 @@ Discover the joy of organizing your tasks with my intuitive app! Effortlessly cr
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/funkcja%20edytowania.png">
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/formularz%20.png">
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/panel%20logowania.png"> 
-<be>
+<br>
 
 #Swagger Docs
 

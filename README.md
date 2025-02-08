@@ -1,5 +1,5 @@
 # TodoApp
-![panel logowania](https://github.com/user-attachments/assets/201c7689-b7a1-489e-a486-1c761530fa8a)
+<img aligin ="left" width ="3px" style ="padding:right:10px;" scr= ![panel logowania](https://github.com/user-attachments/assets/201c7689-b7a1-489e-a486-1c761530fa8a) />
 ![formularz ](https://github.com/user-attachments/assets/701bbcaf-5fde-4cb1-b7bb-8ac51c669821)
 ![funkcja edytowania](https://github.com/user-attachments/assets/ca1b3085-069c-404b-8500-8cf5eef1d6b4)
 ![todo lista](https://github.com/user-attachments/assets/312fd168-9dca-4002-b694-36ad5c580194)

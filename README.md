@@ -11,9 +11,9 @@ Discover the joy of organizing your tasks with my intuitive app! Effortlessly cr
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/panel%20logowania.png"> 
 <br>
 
-#Swagger Docs
 
 <br>
+#Swagger Docs
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/swager%20doc.png">
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/swager%20doc2.png">
 <img align="left" width="800" height="800" src="https://github.com/Matekotw/scr/blob/main/swager%20doc3.png">
